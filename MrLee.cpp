@@ -1,0 +1,2 @@
+// Problem Statement:
+// Mr. Lee is an experienced engineer and likes solving puzzles. One day, he got a task to design a robot that can move in a maze. The maze is represented as a 2D grid where 0 represents open cells and 1 represents blocked cells. The robot can move up, down, left, and right. Given the starting point and the ending point in the maze, determine if Mr. Lee's robot can reach the ending point from the starting point and return the shortest path length. If the ending point is unreachable, return -1.
